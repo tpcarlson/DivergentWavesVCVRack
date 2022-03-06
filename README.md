@@ -1,5 +1,5 @@
 # Divergent Waves - VCV Rack
-VCV Rack plugins for Divergent Waves modules
+VCV Rack plugins for Divergent Waves modules, licensed under GPLv3.
 
 # Modules
 ## Logic
